@@ -25,7 +25,7 @@
 ### Github Stats
 <p align="center">
   <a href="https://github.com/freezlex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freezlex&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinan2245&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=freezlex&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
