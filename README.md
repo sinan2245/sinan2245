@@ -18,6 +18,17 @@
 - HTML
   
   
+ <h4><b><samp>Tools and Technologies</samp></b></h4>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=flat-square&logo=MongoDB&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+
+##
+  
  ### 🎧 Spotify 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sinand123456)](https://open.spotify.com/user/jul-ivars)
 <br/>
