@@ -19,5 +19,5 @@
   
   
   ### Spotify 🎧
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jul-ivars)](https://open.spotify.com/user/jul-ivars)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sinand123456)](https://open.spotify.com/user/jul-ivars)
 <br/>
