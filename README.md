@@ -14,7 +14,10 @@
 ##
 
 <h4><b><samp>Programming Languages</samp></b></h4>
-![JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   
  
  <h4><b><samp>Tools and Technologies</samp></b></h4>
