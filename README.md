@@ -18,6 +18,6 @@
 - HTML
   
   
-  ### 🎧 Spotify 
+ 🎧 Spotify 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sinand123456)](https://open.spotify.com/user/jul-ivars)
 <br/>
