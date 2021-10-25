@@ -11,7 +11,7 @@
 </div>
 <br><br>
 
-:page_with_curl: I'm currently learning:
+<h4><b><samp>I'm currently learning</samp></b></h4>
 - Javascript
 - Python
 - SQL
