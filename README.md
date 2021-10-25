@@ -22,8 +22,8 @@
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sinand123456)](https://open.spotify.com/user/jul-ivars)
 <br/>
 
-  <details>
-  <summary><b><samp>📊 Weekly development breakdown</samp></b></summary>
+
+ <summary><b><samp>📊 Languages </samp></b></summary>
 
 <!--START_SECTION:waka-->
 ```text
@@ -35,4 +35,3 @@ HTML/CSS      ███▒░░░░░░░░░░░░░░░░░░
 
 ##
 
-</details>
