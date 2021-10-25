@@ -13,7 +13,7 @@
 
 <h4><b><samp>I'm currently learning</samp></b></h4>
 - Javascript
-![Python]( https://img.shields.io/github/pipenv/locked/python-version/sinan2245/https://github.com/sinan2245/sinan2245/edit/main/README.md?color=blue&label=Python&logo=Python&style=plastic)
+![Python](<img alt="GitHub Pipenv locked Python version" src="https://img.shields.io/github/pipenv/locked/python-version/sinan2245/https://github.com/sinan2245/sinan2245/edit/main/README.md?color=blue&label=Python&logo=Python&style=plastic">)
 - SQL
 - HTML
   
