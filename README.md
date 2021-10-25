@@ -13,11 +13,11 @@
 
 <h4><b><samp>I'm currently learning</samp></b></h4>
 - Javascript
-- Python
+![Python]( https://img.shields.io/github/pipenv/locked/python-version/sinan2245/https://github.com/sinan2245/sinan2245/edit/main/README.md?color=blue&label=Python&logo=Python&style=plastic)
 - SQL
 - HTML
   
-  
+ 
  <h4><b><samp>Tools and Technologies</samp></b></h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
