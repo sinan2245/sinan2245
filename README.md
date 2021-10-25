@@ -16,3 +16,8 @@
 - Python
 - SQL
 - HTML
+  
+  
+  ### Spotify 🎧
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jul-ivars)](https://open.spotify.com/user/jul-ivars)
+<br/>
