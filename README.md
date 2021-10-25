@@ -11,11 +11,10 @@
 </div>
 <br><br>
 
-<h4><b><samp>I'm currently learning</samp></b></h4>
-- Javascript
-![Python](<img alt="GitHub Pipenv locked Python version" src="https://img.shields.io/github/pipenv/locked/python-version/sinan2245/https://github.com/sinan2245/sinan2245/edit/main/README.md?color=blue&label=Python&logo=Python&style=plastic">)
-- SQL
-- HTML
+##
+
+<h4><b><samp>Programming Languages</samp></b></h4>
+![JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png)
   
  
  <h4><b><samp>Tools and Technologies</samp></b></h4>
